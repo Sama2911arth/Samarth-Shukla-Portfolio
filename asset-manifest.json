@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Samarth-Shukla-Portfolio/static/css/main.e3c224ae.css",
-    "main.js": "/Samarth-Shukla-Portfolio/static/js/main.4a015b45.js",
+    "main.css": "/Samarth-Shukla-Portfolio/static/css/main.3eb171b9.css",
+    "main.js": "/Samarth-Shukla-Portfolio/static/js/main.af3c4fbf.js",
     "static/js/453.9b06fe62.chunk.js": "/Samarth-Shukla-Portfolio/static/js/453.9b06fe62.chunk.js",
+    "static/media/travisco.png": "/Samarth-Shukla-Portfolio/static/media/travisco.bc7f3ee144de7b2a02ba.png",
     "static/media/mealdrive.png": "/Samarth-Shukla-Portfolio/static/media/mealdrive.fb0523f93baa5a0ed92d.png",
     "static/media/eventbizz.png": "/Samarth-Shukla-Portfolio/static/media/eventbizz.9c58c54adfb9c0128ba6.png",
     "static/media/sociopedia.png": "/Samarth-Shukla-Portfolio/static/media/sociopedia.6c5fc0b81c8a7f11d8aa.png",
@@ -10,14 +11,13 @@
     "static/media/codingpro.png": "/Samarth-Shukla-Portfolio/static/media/codingpro.3b74d1cf0b9108627252.png",
     "static/media/codingboy.webp": "/Samarth-Shukla-Portfolio/static/media/codingboy.625913fe68f593a0b380.webp",
     "static/media/bookstore.png": "/Samarth-Shukla-Portfolio/static/media/bookstore.749fe98b910abb19e50e.png",
-    "static/media/travisco.jpg": "/Samarth-Shukla-Portfolio/static/media/travisco.adfb170eab7277c68bc8.jpg",
     "index.html": "/Samarth-Shukla-Portfolio/index.html",
-    "main.e3c224ae.css.map": "/Samarth-Shukla-Portfolio/static/css/main.e3c224ae.css.map",
-    "main.4a015b45.js.map": "/Samarth-Shukla-Portfolio/static/js/main.4a015b45.js.map",
+    "main.3eb171b9.css.map": "/Samarth-Shukla-Portfolio/static/css/main.3eb171b9.css.map",
+    "main.af3c4fbf.js.map": "/Samarth-Shukla-Portfolio/static/js/main.af3c4fbf.js.map",
     "453.9b06fe62.chunk.js.map": "/Samarth-Shukla-Portfolio/static/js/453.9b06fe62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3c224ae.css",
-    "static/js/main.4a015b45.js"
+    "static/css/main.3eb171b9.css",
+    "static/js/main.af3c4fbf.js"
   ]
 }
